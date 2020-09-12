@@ -43,8 +43,8 @@ url: "https://tmjam.github.io/tauseef-blog"
 baseurl: ""
 paginate: 20
 per_page: 20
-paginate_path: "/blogs/page/:num/"
-markdown: kramdown
+# paginate_path: "/blogs/page/:num/"
+# markdown: kramdown
 gems:
   - jekyll-paginate
   - jekyll-gist
