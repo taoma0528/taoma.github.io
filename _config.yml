@@ -7,7 +7,7 @@ github: https://github.com/taoma0528
 about: I am a Ph.D. Student at Columbia University/Lamont Doherty Earth Observatory. 
 disqus_shortname: programming
 # google_analytics: UA-31048387-6
-avatar_url: /static/img/Tme.jpg
+avatar_url: /static/img/me.jpg
 
 enableTags: true
 tagarray: []
@@ -31,7 +31,7 @@ urls:
     - text: Education
       url: /education/
     - text: Research Projects
-      url: /projects/
+      url: /research_projects/
     - text: Publications
       url: /publications/
     - text: Presentations
@@ -43,8 +43,8 @@ url: "https://taoma0528.github.io/"
 baseurl: ""
 paginate: 20
 per_page: 20
-# paginate_path: "/blogs/page/:num/"
-# markdown: kramdown
+paginate_path: "/blogs/page/:num/"
+markdown: kramdown
 gems:
   - jekyll-paginate
   - jekyll-gist
