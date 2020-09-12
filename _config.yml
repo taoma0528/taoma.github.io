@@ -1,10 +1,10 @@
-title: Tauseef Jamadar
-description: Stuff that I come across and find interesting.
-author: Tauseef Jamadar
-email: tmjam.ahmed@gmail.com
-phone: (650) 576-5403
-github: https://github.com/tmjam
-about: I am a Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a> and a freelance developer. I love working on backend and frontend technologies.
+title: Madankui Tao
+description: Personal website
+author: Madankui Tao
+email: mt3388@columbia.edu
+phone: (917) 821-9063
+github: https://github.com/taoma0528
+about: I am a Ph.D. Student at Columbia University/Lamont Doherty Earth Observatory. 
 disqus_shortname: programming
 google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
@@ -19,31 +19,27 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "https://www.facebook.com/tjamadar"
-    - icon: fa-twitter
-      link: "https://twitter.com/tmjam3011"
+      link: "https://www.facebook.com/madankui.tao/"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/tauseef-jamadar-5b577913/"
-    # - icon: fa-stack-exchange
-    #   link: "#"
+      link: "https://www.linkedin.com/in/madankui-tao-a6a4a9108/"
     - icon: fa-github
-      link: "https://github.com/tmjam"
-
-share:
-  twitter_username: tmjam3011
-  # fb_appid: 1749788565247320
+      link: "https://github.com/taoma0528"
 
 urls:
     - text: About Me
       url: /about/
-    - text: Projects
+    - text: Education
+      url: /education/
+    - text: Research Projects
       url: /projects/
-    - text: Blogs
-      url: /blogs/
-    - text: XML Feed
-      url: /feed.xml
+    - text: Publications
+      url: /publications/
+    - text: Presentations
+      url: /presentations/
+
 # url: "http://localhost:4000"
 url: "https://tmjam.github.io/tauseef-blog"
+# url: "https://taoma0528.github.io/"
 baseurl: ""
 paginate: 20
 per_page: 20
