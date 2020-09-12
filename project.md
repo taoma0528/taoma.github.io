@@ -1,7 +1,7 @@
 ---
-layout: research_projects
+layout: project
 title: Research Projects
-permalink: /research_projects/
+permalink: /project/
 ---
 
 Here are some of my research projects.   
