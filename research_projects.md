@@ -4,4 +4,5 @@ title: Research Projects
 permalink: /research_projects/
 ---
 
-My research project. I am currently working on ozone pollution in the northeastern US.
+Here are some of my research projects.   
+I am currently working on ozone pollution in the northeastern US.
