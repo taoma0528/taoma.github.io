@@ -6,7 +6,7 @@ phone: (917) 821-9063
 github: https://github.com/taoma0528
 about: I am a Ph.D. Student at Columbia University/Lamont Doherty Earth Observatory. 
 disqus_shortname: programming
-google_analytics: UA-31048387-6
+# google_analytics: UA-31048387-6
 avatar_url: /static/img/Tme.jpg
 
 enableTags: true
@@ -38,8 +38,8 @@ urls:
       url: /presentations/
 
 # url: "http://localhost:4000"
-url: "https://tmjam.github.io/tauseef-blog"
-# url: "https://taoma0528.github.io/"
+# url: "https://tmjam.github.io/tauseef-blog"
+url: "https://taoma0528.github.io/"
 baseurl: ""
 paginate: 20
 per_page: 20
