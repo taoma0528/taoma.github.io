@@ -28,8 +28,6 @@ social:
 urls:
     - text: About Me
       url: /about/
-    - text: Education
-      url: /education/
     - text: Research Projects
       url: /project/
     - text: Publications
