@@ -31,7 +31,7 @@ urls:
     - text: Education
       url: /education/
     - text: Research Projects
-      url: /research_projects/
+      url: /project/
     - text: Publications
       url: /publications/
     - text: Presentations
