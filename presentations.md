@@ -1,9 +1,15 @@
-
+---
+layout: presentations
+title: Presentations
+permalink: /presentations/
+---
 <p>
+
 Invited Talks
 1.	Investigate summertime ozone sensitivity over northeast U.S., Solutions for Pollutions Seminar, Lamont-Doherty Earth Observatory of Columbia University, Palisades, NY, USA, July 2020. 
 2.	Investigating changes in ozone formation chemistry during summertime pollution events over the Northeastern U.S., OWLETS Tag up call organized by Maryland Department of the Environment, August 2020. 
 
+</p>
 Conference Presentations
 1.	Study tropospheric ozone formation from space (oral), First Year Graduate Colloquium, Lamont-
 2.	Doherty Earth Observatory, Columbia University, Palisades, NY, USA, April 2020. 
